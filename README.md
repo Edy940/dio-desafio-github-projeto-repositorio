@@ -1,5 +1,5 @@
 # Repositório para o desafio do curso de bootcamp da DIO
 
-##Links úteis
+Repositório criado para o desafio de projeto
 
 
